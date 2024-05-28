@@ -36,4 +36,4 @@
 
 https://blog.csdn.net/weixin_45174417/article/details/135750633
 
-![image-20240528144816917](D:\李梓涵\2024春季学期\Linux\作业\BMIProgram\image-20240528144816917.png)
+![image-20240528144816917](.\image-20240528144816917.png)
