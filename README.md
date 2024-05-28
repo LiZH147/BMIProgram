@@ -27,3 +27,13 @@
 
 1. 退出系统前要选用功能3保存BMI记录；
 2. 对于当次运行时的BMI记录，先使用功能3后才能使用功能2和功能4进行查看，也就是保存记录是必须的。
+
+
+
+
+
+## GIt使用
+
+https://blog.csdn.net/weixin_45174417/article/details/135750633
+
+![image-20240528144816917](C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20240528144816917.png)
